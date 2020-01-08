@@ -1,0 +1,7 @@
+*.whl
+/__pycache__/
+/.vscode/
+*/__pycache__/
+/env/
+/migrations/
+config.py
